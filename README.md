@@ -26,8 +26,8 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
 ## 📑 Prompt Gallery
 
 - [🖼️ Cases](#️-cases)
-  - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
-  - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
+  - [Case 1: Solve math problem on whiteboard（by @mark_k）](#case-1-solve-math-problem-on-whiteboardby-mark_k)
+  - [Case 2: Assemble from torn and mixed-up pieces（by @ai_for_success）](#case-2-assemble-from-torn-and-mixed-up-piecesby-ai_for_success)
 
 ## 🖼️ Cases
 
