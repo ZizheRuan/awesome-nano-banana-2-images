@@ -1,7 +1,7 @@
 # 🍌 Awesome Nano Banana 2 Images Prompt Gallery (Preview) 🍌
 
 
-## ✨ Introduction
+## 🔍 Introduction
 awesome-nano-banana-2-images is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the **Nano Banana 2 (Google Gemini 3.0 Pro Image)** model, currently accessible through *third-party preview APPs*.  
 This repository aims to help creators, researchers, and prompt engineers better understand how to craft effective prompts for the model during its pre-release phase.
 
@@ -19,7 +19,7 @@ This project serves as a practical reference for anyone experimenting with the N
 ## 🙏 Acknowledge
 All images and prompts included here are collected from **publicly shared sources** or generated through legitimate preview-access APIs**.  
 This repository does **not** host internal, leaked, or proprietary data.
-Cases come from X.com, RedNote and other social media. Copyrights credits to original authors and artists.
+Cases come from X.com, RedNote and other social media. Copyrights credits to original authors and artists. This repo is also inspired by projects awesome-nano-banana, awesome-gpt4o-images and Awesome-Nano-Banana-images.
 
 ⭐ Star or Watch this project for future updates!
 
