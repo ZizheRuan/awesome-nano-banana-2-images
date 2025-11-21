@@ -26,10 +26,26 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
+  - [Case 0: Turn item into cyberpunk style with text（by @ZizheRuan)](#case-0-turn-item-into-cyberpunk-style-with-textby-zizheruan)
   - [Case 1: Solve math problem on whiteboard（by @mark_k）](#case-1-solve-math-problem-on-whiteboardby-mark_k)
   - [Case 2: Assemble message from torn and mixed-up pieces（by @ai_for_success）](#case-2-assemble-message-from-torn-and-mixed-up-piecesby-ai_for_success)
 
 ## ✨ Cases
+
+### Case 0: [Turn item into cyberpunk style with text](https://copictor.com/case/nanobananapro)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/0_i.jpg" width="200" alt="Input Image"> | <img src="images/0_o.jpg" width="200" alt="Output Result"> |
+
+
+**input:** a reference image
+
+**prompt:**
+
+```
+A highly imaginative, ultra-cool, eye-catching cyberpunk-inspired banana artwork in vivid, neon-saturated colors. A single banana occupies most of the frame, rendered in a surreal, futuristic, abstract style that clearly does not resemble the real world. 1:1 aspect ratio. Add three lines of English text: ‘Nano’, ‘Banana’, ‘Pro’. The text should not block the banana too much, but may slightly overlap if needed. Extremely stylish, futuristic, and visually striking.
+```
 
 <!-- Case 1: Solve math problem on whiteboard (by @mark_k) -->
 ### Case 1: [Solve math problem on whiteboard](https://x.com/mark_k/status/1987822081363583381)（by [@mark_k](https://x.com/mark_k)）
